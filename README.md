@@ -12,7 +12,7 @@ Its simply a colorscheme for tilix to match the colors of JellyBeans-vim.
 
 Just clone the Repo to your homefolder and move the jelly.json inside to the /usr/share/tilix/schemes folder. Then you can set it in the tilix options.
 
-$ git clone https://github.com/erikschreier/jellybeans-tilix
-$ cd jellybeans-tilix
-$ sudo mv jelly.json /usr/share/tilix/schemes/
-$ cd .. && rm -rf jellybeans-tilix
+    $ git clone https://github.com/erikschreier/jellybeans-tilix
+    $ cd jellybeans-tilix
+    $ sudo mv jelly.json /usr/share/tilix/schemes/
+    $ cd .. && rm -rf jellybeans-tilix
